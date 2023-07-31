@@ -2,11 +2,11 @@
 
 Software Engineer. Aspiring Senior Developer🥑.
 
+playing with : python ,flask , fastapi and everything backend
 
 
 - 🔭 I’m currently working on : ClassManagerApp
 - 🌱 I’m currently learning : FASTAPI
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about : Software Development 
 - 📫 How to reach me: apprentice_py@icloud.com
 
