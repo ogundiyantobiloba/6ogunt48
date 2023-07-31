@@ -2,7 +2,7 @@
 
 ### Software Engineer. Aspiring Senior Developer🥑.
 
-playing with : python ,flask , fastapi and everything backend
+playing with : python ,flask , fastapi and everything backend.
 
 
 - 🔭 I’m currently working on : ClassManagerApp
