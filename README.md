@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on : ClassManagerApp
-- 🌱 I’m currently learning : Docker and Kubernetes
+- 🌱 I’m currently learning : 
 - 💬 Ask me about : Software Development 
 - 📫 How to reach me: apprentice_py@icloud.com
 
