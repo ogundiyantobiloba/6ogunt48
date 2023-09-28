@@ -1,5 +1,3 @@
-## Hi there 👋, I'm Tobiloba Ogundiyan
-
 Playing with python , Javascriot, Go .
 
 
