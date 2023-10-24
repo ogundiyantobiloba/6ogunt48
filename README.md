@@ -3,6 +3,3 @@ As a software engineer, my primary focus is developing scalable APIs to serve we
 
 [![wakatime](https://wakatime.com/badge/user/f6526134-0caa-49f4-a565-384bcda66e62.svg)](https://wakatime.com/@f6526134-0caa-49f4-a565-384bcda66e62)
 
-
-```markdown
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6ogunt48&layout=compact)
